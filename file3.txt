@@ -1,1 +1,2 @@
 Again add file3
+new string
