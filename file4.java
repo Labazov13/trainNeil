@@ -17,7 +17,7 @@ class file4{
         return word;
     }
 
-    public static String sayAnythyng(){
+    public static String sayAnything(){
         return "anything";
     }
 }
