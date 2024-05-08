@@ -12,5 +12,9 @@ class file4{
     public static String sayGoodbye(){
         return "BYE";
     }
+
+    public static String say(String word){
+        return word;
+    }
 }
 
